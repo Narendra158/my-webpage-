@@ -1,0 +1,16 @@
+img{
+	width: 50px;
+	margin-top:10px; 
+}
+#site-navigation{
+
+	float: right;
+}
+nav li{
+	list-style-type: none;
+	float: left;
+	font-size: 20px;
+	margin-top:10px;
+	letter-spacing: 3px;
+	padding: 10px; 
+}
